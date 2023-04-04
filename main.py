@@ -3,8 +3,6 @@ import random
 k=random.randint(10,17)
 p="i"*k
 a="H"+p
-if ((n:=len(a)) > 7):
-  print("max length exceeded")
 
 
 while True:
